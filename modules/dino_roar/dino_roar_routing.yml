@@ -1,0 +1,7 @@
+dino_says:
+    path: '/the/dino/says'
+    defaults:
+        _controller: 'Drupal\dino_roar\Controller\RoarController::roar'
+        _title: 'The Dino says...'
+    requirements:
+        _permission: 'access content'

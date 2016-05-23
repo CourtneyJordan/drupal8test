@@ -1,0 +1,3 @@
+
+Warning: readfile(https://drupalconsole.com/installer): failed to open stream: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ in Command line code on line 1
